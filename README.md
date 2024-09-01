@@ -11,15 +11,15 @@ Repositorio del módulo de Entornos de desarrollo de 1º de DAM. Este módulo te
     <a href=""></a>
   </li>
   <li>
-    <a href="https://github.com/Olmedo30/SistemasInformaticos-03-2023-2024">Redes de los ordenadores</a>
+    <a href="https://github.com/Olmedo30/SistemasInformaticos-03-2023-2024"></a>
   </li>
   <li>
-    <a href="https://github.com/Olmedo30/SistemasInformaticos-04-2023-2024">Software de un sistema informático</a>
+    <a href="https://github.com/Olmedo30/SistemasInformaticos-04-2023-2024"></a>
   </li>
   <li>
-    <a href="https://github.com/Olmedo30/SistemasInformaticos-05-2023-2024">Virtualización</a>
+    <a href="https://github.com/Olmedo30/SistemasInformaticos-05-2023-2024"></a>
   </li>
   <li>
-    <a href="https://github.com/Olmedo30/SistemasInformaticos-06-2023-2024">Sistemas operativos Windows</a>
+    <a href="https://github.com/Olmedo30/SistemasInformaticos-06-2023-2024"></a>
   </li>
 </ol>
