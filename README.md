@@ -5,10 +5,10 @@ Repositorio del módulo de Entornos de desarrollo de 1º de DAM. Este módulo te
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <ol>
   <li>
-    <a href=""></a>
+    <a href="https://github.com/Olmedo30/EntornoDesarrollo-01-2023-2024">Desarrollo de Software</a>
   </li>
   <li>
-    <a href=""></a>
+    <a href="https://github.com/Olmedo30/EntornoDesarrollo-02-2023-2024">Diseño y realización de pruebas</a>
   </li>
   <li>
     <a href=""></a>
